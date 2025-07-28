@@ -30,8 +30,8 @@ Welcome to **Python MindGym** – my personal commitment to sharpening my Python
 |-----|------------------------------------------------------|--------------|--------------|
 | 1   | Print "Hello, World!"                                | Beginner     | ✅ Solved     |
 | 2   | Sum of two numbers                                   | Beginner     | ✅ Solved     |
-| 3   | Maximum of two numbers                               | Beginner     | ❌ Pending    |
-| 4   | Check even or odd                                    | Beginner     | ❌ Pending    |
+| 3   | Maximum of two numbers                               | Beginner     | ✅ Solved     |
+| 4   | Check even or odd                                    | Beginner     | ✅ Solved     |
 | 5   | Check prime number                                   | Beginner     | ❌ Pending    |
 | 6   | Find factorial of a number                           | Beginner     | ❌ Pending    |
 | 7   | Fibonacci sequence up to n                           | Beginner     | ❌ Pending    |
