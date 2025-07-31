@@ -32,12 +32,12 @@ Welcome to **Python MindGym** – my personal commitment to sharpening my Python
 | 2   | Sum of two numbers                                   | Beginner     | ✅ Solved     |
 | 3   | Maximum of two numbers                               | Beginner     | ✅ Solved     |
 | 4   | Check even or odd                                    | Beginner     | ✅ Solved     |
-| 5   | Check prime number                                   | Beginner     | ❌ Pending    |
-| 6   | Find factorial of a number                           | Beginner     | ❌ Pending    |
-| 7   | Fibonacci sequence up to n                           | Beginner     | ❌ Pending    |
-| 8   | Reverse a number                                     | Beginner     | ❌ Pending    |
-| 9   | Palindrome number                                    | Beginner     | ❌ Pending    |
-| 10  | Count digits in a number                             | Beginner     | ❌ Pending    |
+| 5   | Check prime number                                   | Beginner     | ✅ Solved     |
+| 6   | Find factorial of a number                           | Beginner     | ✅ Solved    |
+| 7   | Fibonacci sequence up to n                           | Beginner     | ✅ Solved    |
+| 8   | Reverse a number                                     | Beginner     | ✅ Solved    |
+| 9   | Palindrome number                                    | Beginner     | ✅ Solved    |
+| 10  | Count digits in a number                             | Beginner     | ✅ Solved    |
 | 11  | Armstrong number check                               | Beginner     | ❌ Pending    |
 | 12  | Print all primes between 1 to 100                    | Beginner     | ❌ Pending    |
 | 13  | Sum of digits of a number                            | Beginner     | ❌ Pending    |
