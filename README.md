@@ -40,12 +40,12 @@ Welcome to **Python MindGym** – my personal commitment to sharpening my Python
 | 10  | Count digits in a number                             | Beginner     | ✅ Solved     |
 | 11  | Armstrong number check                               | Beginner     | ✅ Solved     |
 | 12  | Print all primes between 1 to 100                    | Beginner     | ✅ Solved     |
-| 13  | Sum of digits of a number                            | Beginner     | ❌ Pending    |
-| 14  | GCD of two numbers                                   | Beginner     | ❌ Pending    |
-| 15  | LCM of two numbers                                   | Beginner     | ❌ Pending    |
-| 16  | Swap two numbers without temp variable               | Beginner     | ❌ Pending    |
-| 17  | Convert Celsius to Fahrenheit                        | Beginner     | ❌ Pending    |
-| 18  | Check leap year                                      | Beginner     | ❌ Pending    |
+| 13  | Sum of digits of a number                            | Beginner     | ✅ Solved     |
+| 14  | GCD of two numbers                                   | Beginner     | ✅ Solved     |
+| 15  | LCM of two numbers                                   | Beginner     | ✅ Solved     |
+| 16  | Swap two numbers without temp variable               | Beginner     | ✅ Solved     |
+| 17  | Convert Celsius to Fahrenheit                        | Beginner     | ✅ Solved     |
+| 18  | Check leap year                                      | Beginner     | ✅ Solved     |
 | 19  | Calculator using functions                           | Beginner     | ❌ Pending    |
 | 20  | ASCII value of a character                           | Beginner     | ❌ Pending    |
 | 21  | Number to binary, octal, and hexadecimal             | Beginner     | ❌ Pending    |
